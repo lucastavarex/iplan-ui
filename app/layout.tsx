@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     default: "Shadcn Storybook Registry",
     template: `%s | Shadcn Storybook Registry`,
   },
-  description: "A collection of stories for the components of shadcn/ui",
+  description: "A collection of stories for the components of IPLANRIO UI based on Shadcn UI",
   icons: {
     icon: "/favicon.svg",
   },
@@ -68,7 +68,7 @@ export default function RootLayout({
           </Button> */}
           <Button variant="link" asChild>
             <a
-              href="https://github.com/lucastavarex/shadcn-storybook-registry"
+              href="https://github.com/lucastavarex/iplan-ui"
               target="_blank"
             >
               <Code2 size={24} /> Repo

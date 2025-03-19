@@ -23,7 +23,7 @@ const Home = async () => {
             Storybook Registry
           </h1>
           <p className="text-muted-foreground">
-            A collection of stories for the components of Shadcn/ui
+            A collection of stories for the components of IPLANRIO UI based on Shadcn ui
           </p>
         </section>
         <Table className="table-fixed">
